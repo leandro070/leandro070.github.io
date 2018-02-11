@@ -33,15 +33,15 @@ disqus:
   categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: https://www.facebook.com/leandro070
+facebook: leandro070
 # twitter: mytwitter
 # google: mygoogle
-instagram: https://www.instagram.com/leangutierrez070/
+instagram: leangutierrez070/
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/leandro070
+github: leandro070
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
