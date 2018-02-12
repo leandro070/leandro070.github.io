@@ -15,8 +15,7 @@ description: What is and why is it necessary to use databases?
 ## Use a database is fundamental!
 
 This is a little course of creation and design of relational databases in MySQL. My name is Leandro and I'll try to be your tutor.
-
-![Markdowm Image][/assets/images/why_use_a_database/database.png]
+![Markdowm Image][1]
 
 > A **database** is an organized collection of data.
 
@@ -33,3 +32,4 @@ The databases organize our data and maintain relationships between them in order
 7. Facilitated development of new applications program.
 8. Due to backup and recovery options database can survive in crashes without corrupting the data.
 
+[1]: /assets/images/why_use_a_database/database.png
