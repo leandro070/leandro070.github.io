@@ -17,9 +17,9 @@ description: What is and why is it necessary to use databases?
 This is a little course of creation and design of relational databases in MySQL. My name is Leandro and I'll try to be your tutor.
 
 
-<center>
+
 ![Markdowm Image][1]
-</center>
+
 
 
 
