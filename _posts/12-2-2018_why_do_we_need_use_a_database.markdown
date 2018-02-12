@@ -2,7 +2,7 @@
 
 This is a little course of creation and design of relational databases in MySQL. My name is Leandro and I'll try to be your tutor.
 
-![database](assets/images/why_use_a_database/database.png)
+![database](/assets/images/why_use_a_database/database.png)
 
 > A **database** is an organized collection of data.
 
