@@ -1,11 +1,12 @@
 ---
 title: "Why do we need a database?"
 layout: post
-date: 2016-02-24 22:48
+date: 2018-02-12 02:11:00
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - database
+star: true
 category: blog
 author: leandro070
 description: What is and why is it necessary to use databases?
