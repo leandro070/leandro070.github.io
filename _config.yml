@@ -1,10 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Leandro Gutierrez
+bio: Web Developer, Information System Engineering student
 
 # twitter summary info
-description: A blog about technology and stuff related
-
+description: A simple blog with experiences as a developer.
 # if it's an external image, update below for true
 # better with square images
 external-image: false
@@ -12,11 +11,11 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://leandro070.github.io/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -34,23 +33,24 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: leandro070
+# twitter: mytwitter
 # google: mygoogle
-# instagram: myinstagram
+instagram: leangutierrez070/
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: leandro070
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: leandrogutierrez070@gmail.com
+
 
 authors:
     johndoe:
@@ -108,4 +108,4 @@ plugins:
   - jekyll-admin
 
 jekyll-mentions:
-    base_url: https://github.com
+base_url: https://github.com
