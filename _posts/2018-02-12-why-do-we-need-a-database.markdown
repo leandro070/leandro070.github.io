@@ -1,8 +1,21 @@
+---
+title: "Why do we need a database?"
+layout: post
+date: 2016-02-24 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- database
+category: blog
+author: leandro070
+description: What is and why is it necessary to use databases?
+---
+
 ## Use a database is fundamental!
 
 This is a little course of creation and design of relational databases in MySQL. My name is Leandro and I'll try to be your tutor.
 
-![database](/assets/images/why_use_a_database/database.png)
+![Markdowm Image][/assets/images/why_use_a_database/database.png]
 
 > A **database** is an organized collection of data.
 
