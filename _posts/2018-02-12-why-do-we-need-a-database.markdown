@@ -27,7 +27,7 @@ This is a little course of creation and design of relational databases in MySQL.
 
 The databases organize our data and maintain relationships between them in order to facilitate effective information sharing across an organization.
 
-##So... Why use a database?
+## So... Why use a database?
 
 1. It is **very quick and easy** to find information.
 2. Databases can store very large numbers of records **efficiently**.
