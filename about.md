@@ -1,46 +1,30 @@
 ---
-title: About
+title: Sobre mi
 layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+Siempre nos cuesta escribír sobre nosotros, no sabemos como describirnos, sabemos que cosas no nos gustan de nosotros mismos y las tratamos de corregir (o ocultar en su defecto), pero a veces es difícil saber que es lo que a la gente le gusta de nosotros.
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+Soy **Leandro Gutierrez**, tengo 24 años, soy estudiante de Ingeniería en Sistemas en la Universidad Tecnológica Nacional en Mendoza, Argentina. Amo la música, no puedo salir sin mis auriculares. Me paso horas leyendo, viendo videos y conferencias de tecnología, programación, diseño de sistemas, diseño de interfaces (UI-UX). 
 
-<h2>Skills</h2>
+Me gusta el trabajo en equipo, trabajo mejor en equipos chicos adquiriendo y compartiendo conocimiento, el intercambio de ideas es fundamental para llegar a buenas soluciones. He incursionado en varios paradigmas con muchos lenguajes:
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+* Java
+* C
+* C++
+* Javascript
+* Haskell
+* Prolog
+* Android(?)
+* GOlang
+* Assembler
+* Python
+* .NET
+* SQL
 
-<h2>Projects</h2>
+Estoy apostando en mi educación a **Golang** y **Android**. 
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+Me gustan los desafíos, busco respuestas y no puedo parar hasta encontrarlas. Soy 80% autodidacta, casi 100% en programación. Escribo algunas entradas en ingles buscando perfeccionarlo.
+
+He aqui el 50% de mí.
