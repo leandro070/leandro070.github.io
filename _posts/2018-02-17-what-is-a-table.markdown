@@ -73,15 +73,18 @@ Later, we have the data that we want to store and the table attributes. We need 
 
 I have a market and I need to store all money receipts
 * Find the table name
+
 * Find attributes
+
 *Remember,don't forget the ID attribute*
 
 ### Solution 
 
 There are many solution, a possible solution is this:
-![Markdowm Image][1]
 
 ![Markdowm Image][2]
+
+![Markdowm Image][1]
 
 **See you soon!**
 
