@@ -2,8 +2,8 @@
 title: "Why do we need a database?"
 layout: post
 date: 2018-02-12 02:11:00
-image: /assets/images/markdown.jpg
-headerImage: false
+image: /assets/images/header_database_course.jpeg
+headerImage: true
 tag:
 - database
 star: true
