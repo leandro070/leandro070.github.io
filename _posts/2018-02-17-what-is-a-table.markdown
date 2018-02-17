@@ -80,10 +80,11 @@ I have a market and I need to store all money receipts
 
 There are many solution, a possible solution is this:
 ![Markdowm Image][1]
+
 ![Markdowm Image][2]
 
 **See you soon!**
 
 
 [1]: /assets/images/what_is_a_table/table.png
-[1]: /assets/images/what_is_a_table/table_gui.png
+[2]: /assets/images/what_is_a_table/table_gui.png
