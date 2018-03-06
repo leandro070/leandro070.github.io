@@ -28,7 +28,7 @@ The domains **make a powerful feature** of relational model. A domain describes 
 Different types of domains are: integers, strings, date, non-procedural, etc.
 As a domain restricts the values of the attribute, it can be considered as a restriction.
 
-##SQL Example:
+## SQL Example:
 **CREATE DOMAIN** POSITIVE **AS** INTEGER NOT NULL CHECK(VALUE > 0);
 
 **CREATE TABLE** countryside(
