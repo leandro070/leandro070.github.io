@@ -12,15 +12,14 @@ author: leandro070
 description: What is and why is it necessary to use databases?
 ---
 
+The databases are the foundation of all our applications, web applications, desktop applications, any application has to work with data, whether images, text, whatever.
+
+There are two types of databases, relational and non-relational. In this blog I want to talk a little about them.
+
 ## Use a database is fundamental!
-
-This is a little course of creation and design of relational databases in MySQL. My name is Leandro and I'll try to be your tutor.
-
 
 
 ![Markdowm Image][1]
-
-
 
 
 > A **database** is an organized collection of data.
