@@ -7,7 +7,12 @@ headerImage: true
 tag:
 - database
 - table
-- domain
+- constraint
+- key
+- foreign
+- primary
+- unique
+- null
 star: true
 category: blog
 author: leandro070
