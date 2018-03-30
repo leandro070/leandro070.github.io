@@ -1,7 +1,7 @@
 ---
 title: "Como generar tu Marca Personal"
 layout: post
-date: 2018-03-3 14:30:00
+date: 2018-03-30 14:30:00
 image: /assets/images/header_database_course.jpeg
 headerImage: true
 tag:
